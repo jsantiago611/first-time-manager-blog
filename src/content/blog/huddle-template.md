@@ -3,7 +3,7 @@ title: Daily huddle email template
 excerpt: Because it can take a first time manager over an hour to write a clear and inviting huddle invite email, especially when you don't know your team well.
 publishDate: 'January 20 2024'
 tags:
-  - Time-saving Template
+  - team-building 
 ---
 
 It can take a first time manager over an hour to write a clear and inviting huddle invite email, especially when you don't know your team well.
